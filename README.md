@@ -14,7 +14,7 @@
 ## 📌 About 
 This challenge helped me practice my **HTML** and **CSS** skills by building a responsive order summary card component. 
 I enjoyed the challenge of getting **the component to look as close to the design** as possible while making sure the **interactive elements** had hover states. 
-The project allowed me to work **independently** and **experiment with different tools **and techniques. Completing this challenge on my own gave me a **sense of accomplishment** and confidence in 
+The project allowed me to work **independently** and experiment with different tools and techniques. Completing this challenge on my own gave me a **sense of accomplishment** and confidence in 
 my abilities in front-end development.
 
 ## ⚙️ Techniques and technologies used
