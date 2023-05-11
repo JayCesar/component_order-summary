@@ -1,4 +1,4 @@
-<h1 align="center"> 🚀 Order summary component </h1>
+<h1 align="center"> 🎵  Order summary component </h1>
 
 ![order-banner](https://github.com/salvedojuliao/page_order-summary/assets/44206400/9634c282-e5b6-473e-8c63-af36945ff17d)
 
@@ -23,4 +23,7 @@ my abilities in front-end development.
 - ``Responsive design``
 
 ## 🖥️ Demo  
+![order-demo](https://github.com/salvedojuliao/page_order-summary/assets/44206400/81646121-dd37-4cca-9394-ba21938bf709)
 
+## ▶️ How to access it?
+You just need to click ➙ <b><a href="https://salvedojuliao.github.io/page_order-summary/">Order Summary Component </a></b>
