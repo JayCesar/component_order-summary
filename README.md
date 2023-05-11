@@ -29,7 +29,10 @@ my abilities in front-end development.
 ***
 
 ## 🖥️ Demo  
-![order-demo](https://github.com/salvedojuliao/page_order-summary/assets/44206400/81646121-dd37-4cca-9394-ba21938bf709)
+
+![gif-order](https://github.com/salvedojuliao/page_order-summary/assets/44206400/cd8c5d71-e785-4dd9-9277-eef01b2253b9)
+
+
 
 ***
 
