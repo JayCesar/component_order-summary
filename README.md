@@ -37,7 +37,7 @@ my abilities in front-end development.
 ***
 
 ## ▶️ How to access it?
-You just need to click ➙ <b><a href="https://salvedojuliao.github.io/page_order-summary/">Order Summary Component </a></b>
+You just need to click ➙ <b><a href="https://jaycesar.github.io/page_order-summary/">Order Summary Component </a></b>
 
 ***
 
